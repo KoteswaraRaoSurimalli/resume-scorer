@@ -1,5 +1,5 @@
 "# resume-scorer" 
-
+My Resume Score Application Official Link: https://resume-scorer-5m5zts9ysniuvappiitnhad.streamlit.app/
 Day 5 — Lab 5A: Résumé-Scorer Streamlit
 Corrected Turnkey Walkthrough for Windows + GitHub + Streamlit Cloud
 Time: 90 minutes
